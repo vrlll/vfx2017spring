@@ -1,2 +1,3 @@
 # vfx2017spring
-project1
+
+## Project1: High Dynamic Range Imaging
